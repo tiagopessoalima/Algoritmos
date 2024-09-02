@@ -40,6 +40,6 @@ Google Colab é uma ferramenta incrível que permite que você escreva e execute
 ## Avaliações
 - Exercícios (40%): avaliação contínua com exercícios práticos no Google Colab.
 
-- Provas Teóricas (30%): duas provas com questões objetivas e discursivas, abordando os principais temas do curso.
+- Provas (30%): duas provas com questões objetivas e discursivas, abordando os principais temas do curso.
 
 - Projetos (30%): desenvolvimento de projetos em equipe, com avaliação da qualidade do código, funcionalidade e apresentação.
